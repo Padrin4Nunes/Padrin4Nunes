@@ -2,7 +2,6 @@ Olá! ✌🏽
 
 Me chamo Cauã Nunes, tenho 20 anos e sou brasileiro!
 
-- 🔭 Atualmente trabalho como estagiário em Gestão de Projetos
 - 🌱 Estou aprendendo linguagens Front-end
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
